@@ -13,7 +13,7 @@ Hola!!! Mi nombre es Juan José Zapata, soy un desarrollador de software Back-en
 
 # 📊 GitHub Stats:
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Z4pata/Z4pata/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://ghstats.dev/api/card?username=Z4pata&theme=ayu&custom_title=My+stats&hide=stars%2Cissues%2Cweek%2Cstreak%2Cavg" alt="GitHub Stats Card" />
   <img src="https://ghstats.dev/api/langs?username=Z4pata&theme=ayu&layout=donut_vertical" alt="Top Languages" />
   <img src="https://raw.githubusercontent.com/Z4pata/Z4pata/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
