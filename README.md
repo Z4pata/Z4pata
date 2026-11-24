@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Z4pata&theme=gotham"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Z4pata&theme=gotham"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Z4pata&theme=gotham"/>
+</div>
 
 ## 🚀 About Me
 Hola!!! Mi nombre es Juan José Zapata, soy un desarrollador de software Back-end con aspiraciones de llegar a ser full stack.<br>Soy un apasionado por crear y considero que desarrollando software puedo llevar a cabo esta pasion de hacer parte en la creacion de algo útil para la sociedad.<br><br>Estoy aprendiendo sobre la integracion de IA en desarrollo web y automatizacion con la misma.<br>
